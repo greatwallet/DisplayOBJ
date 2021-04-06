@@ -17,6 +17,7 @@ Written by Xiaotian Cheng (cxt_tsinghua@126.com)
 ## Environment
 * Windows 10 (19042.867), 64bit
 * Microsoft Visual Studio 2017 
+* OpenGL 3.3 core profile
 
 ## Usage
 put the shading script ([`main.frag.glsl`](data/main.frag.glsl) and [`main.vert.glsl`](data/main.vert.glsl)) and your obj file in the same directory as the binary executive file `DisplayOBJ.exe`
